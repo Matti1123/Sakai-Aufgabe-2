@@ -19,6 +19,6 @@ Alternative Ablaufschritte: Vorzeitiger Abbruch wenn nörtig
 
 Hinweise: Hardware- Auswahl für EKG-Daten ist aktuell noch zu klären
 
-Änderungsgeschichte: 0.01; 16.03.2024.; Matti Fletschinger
+Änderungsgeschichte: 0.01; 16.03.2024.; Matti Fletschinger Pisser
 
 
